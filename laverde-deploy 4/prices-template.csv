@@ -1,0 +1,9 @@
+code,label,ppm,amin,amax,adef
+studio,Studio,69090,55,80,65
+apt1,1-Bedroom Apt,72222,90,130,110
+apt2,2-Bedroom Apt,80000,140,200,165
+apt3,3-Bedroom Apt,89000,200,280,230
+townhouse,Townhouse,92407,270,360,300
+twinhouse,Twin House,85147,300,420,340
+duplex,Duplex,90000,250,380,300
+villa,Standalone Villa,94000,350,500,380

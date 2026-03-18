@@ -1,0 +1,97 @@
+type,code,status,label,ppm,amin,amax,adef
+apt1,A1-01,available,1-Bedroom Apt,72222,90,130,110
+apt1,A1-02,available,1-Bedroom Apt,72222,90,130,110
+apt1,A1-03,available,1-Bedroom Apt,72222,90,130,110
+apt1,A1-04,available,1-Bedroom Apt,72222,90,130,110
+apt1,A1-05,available,1-Bedroom Apt,72222,90,130,110
+apt1,A1-06,available,1-Bedroom Apt,72222,90,130,110
+apt1,A1-07,available,1-Bedroom Apt,72222,90,130,110
+apt1,A1-08,available,1-Bedroom Apt,72222,90,130,110
+apt1,A1-09,available,1-Bedroom Apt,72222,90,130,110
+apt1,A1-10,available,1-Bedroom Apt,72222,90,130,110
+apt1,A1-11,available,1-Bedroom Apt,72222,90,130,110
+apt2,A2-01,available,2-Bedroom Apt,80000,140,200,165
+apt2,A2-02,available,2-Bedroom Apt,80000,140,200,165
+apt2,A2-03,available,2-Bedroom Apt,80000,140,200,165
+apt2,A2-04,available,2-Bedroom Apt,80000,140,200,165
+apt2,A2-05,available,2-Bedroom Apt,80000,140,200,165
+apt2,A2-06,available,2-Bedroom Apt,80000,140,200,165
+apt2,A2-07,available,2-Bedroom Apt,80000,140,200,165
+apt2,A2-08,available,2-Bedroom Apt,80000,140,200,165
+apt2,A2-09,available,2-Bedroom Apt,80000,140,200,165
+apt2,A2-10,available,2-Bedroom Apt,80000,140,200,165
+apt2,A2-11,available,2-Bedroom Apt,80000,140,200,165
+apt2,A2-12,available,2-Bedroom Apt,80000,140,200,165
+apt3,A3-01,available,3-Bedroom Apt,89000,200,280,230
+apt3,A3-02,available,3-Bedroom Apt,89000,200,280,230
+apt3,A3-03,available,3-Bedroom Apt,89000,200,280,230
+apt3,A3-04,available,3-Bedroom Apt,89000,200,280,230
+apt3,A3-05,available,3-Bedroom Apt,89000,200,280,230
+apt3,A3-06,available,3-Bedroom Apt,89000,200,280,230
+apt3,A3-07,available,3-Bedroom Apt,89000,200,280,230
+apt3,A3-08,available,3-Bedroom Apt,89000,200,280,230
+apt3,A3-09,available,3-Bedroom Apt,89000,200,280,230
+studio,STU-01,available,Studio,69090,55,80,65
+studio,STU-02,available,Studio,69090,55,80,65
+studio,STU-03,available,Studio,69090,55,80,65
+studio,STU-04,available,Studio,69090,55,80,65
+studio,STU-05,available,Studio,69090,55,80,65
+studio,STU-06,available,Studio,69090,55,80,65
+studio,STU-07,available,Studio,69090,55,80,65
+studio,STU-08,available,Studio,69090,55,80,65
+studio,STU-09,available,Studio,69090,55,80,65
+studio,STU-10,available,Studio,69090,55,80,65
+townhouse,TH-01,available,Townhouse,92407,270,360,300
+townhouse,TH-02,available,Townhouse,92407,270,360,300
+townhouse,TH-03,available,Townhouse,92407,270,360,300
+townhouse,TH-04,available,Townhouse,92407,270,360,300
+townhouse,TH-05,available,Townhouse,92407,270,360,300
+townhouse,TH-06,available,Townhouse,92407,270,360,300
+townhouse,TH-07,available,Townhouse,92407,270,360,300
+townhouse,TH-08,available,Townhouse,92407,270,360,300
+townhouse,TH-09,available,Townhouse,92407,270,360,300
+townhouse,TH-10,available,Townhouse,92407,270,360,300
+townhouse,TH-11,available,Townhouse,92407,270,360,300
+townhouse,TH-12,available,Townhouse,92407,270,360,300
+twinhouse,TW-01,available,Twin House,85147,300,420,340
+twinhouse,TW-02,available,Twin House,85147,300,420,340
+twinhouse,TW-03,available,Twin House,85147,300,420,340
+duplex,DX-01,available,Duplex,90000,250,380,300
+duplex,DX-02,available,Duplex,90000,250,380,300
+duplex,DX-03,available,Duplex,90000,250,380,300
+duplex,DX-04,available,Duplex,90000,250,380,300
+duplex,DX-05,available,Duplex,90000,250,380,300
+duplex,DX-06,available,Duplex,90000,250,380,300
+duplex,DX-07,available,Duplex,90000,250,380,300
+duplex,DX-08,available,Duplex,90000,250,380,300
+duplex,DX-09,available,Duplex,90000,250,380,300
+duplex,DX-10,available,Duplex,90000,250,380,300
+duplex,DX-11,available,Duplex,90000,250,380,300
+duplex,DX-12,available,Duplex,90000,250,380,300
+duplex,DX-13,available,Duplex,90000,250,380,300
+duplex,DX-14,available,Duplex,90000,250,380,300
+duplex,DX-15,available,Duplex,90000,250,380,300
+duplex,DX-16,available,Duplex,90000,250,380,300
+duplex,DX-17,available,Duplex,90000,250,380,300
+duplex,DX-18,available,Duplex,90000,250,380,300
+duplex,DX-19,available,Duplex,90000,250,380,300
+duplex,DX-20,available,Duplex,90000,250,380,300
+duplex,DX-21,available,Duplex,90000,250,380,300
+duplex,DX-22,available,Duplex,90000,250,380,300
+duplex,DX-23,available,Duplex,90000,250,380,300
+duplex,DX-24,available,Duplex,90000,250,380,300
+duplex,DX-25,available,Duplex,90000,250,380,300
+duplex,DX-26,available,Duplex,90000,250,380,300
+duplex,DX-27,available,Duplex,90000,250,380,300
+duplex,DX-28,available,Duplex,90000,250,380,300
+duplex,DX-29,available,Duplex,90000,250,380,300
+duplex,DX-30,available,Duplex,90000,250,380,300
+duplex,DX-31,available,Duplex,90000,250,380,300
+villa,VL-01,available,Standalone Villa,94000,350,500,380
+villa,VL-02,available,Standalone Villa,94000,350,500,380
+villa,VL-03,available,Standalone Villa,94000,350,500,380
+villa,VL-04,available,Standalone Villa,94000,350,500,380
+villa,VL-05,available,Standalone Villa,94000,350,500,380
+villa,VL-06,available,Standalone Villa,94000,350,500,380
+villa,VL-07,available,Standalone Villa,94000,350,500,380
+villa,VL-08,available,Standalone Villa,94000,350,500,380
